@@ -21,8 +21,8 @@
 <br> 
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
-- 🌍  I'm based in Patna,
-  Bihar
+- 🌍  I'm based in Karachi,
+  Pakistan
 - ✉️  You can contact me at
   [mohamadsaadkhalil@gmail.com](mailto:mohamadsaadkhalil@gmail.com)
 - 👨‍💻 My Portfolio <a href="https://Saad61323.github.io/" >Here</a>
