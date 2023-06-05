@@ -68,12 +68,12 @@
       height="66"
       alt="CSS3"
   /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
       width="66"
       height="66"
-      alt="Express"
+      alt="PHP"
   /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
     ><img
