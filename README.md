@@ -1,93 +1,92 @@
-<h3 align="left">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
+    I'm Saad Khalil
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
-<p align="center">
-  <a href="https://github.com/letnagao/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20Analyst;Student%20and%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=420&height=45&color=1a59e0&vCenter=true&size=20"></a>
+# <h1 align="center">Full Stack Web Developer</h1>
+  <h4 align="center">"Aspiring full stack web developer with a strong desire to create visually appealing and user-friendly websites. Skilled in HTML, CSS, JavaScript, React and various frameworks eager to learn more. Excited to use my abilities to deliver better results for users."</h3>
+
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/Saad61323">
+        <img src="https://komarev.com/ghpvc/?username=shubhamkr2&label=Profile%20views&color=0e75b6&style=flat" alt="Saad61323" />
+    </a>
+    <a href="https://github.com/Saad61323?tab=followers">
+        <img src="https://img.shields.io/github/followers/shubhamkr2?label=Followers&style=social" alt="followers-count">
+    </a>
 </p>
+<br> 
 
-<h4 align="left">
+- 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
+- 🌍  I'm based in Patna,
+  Bihar
+- ✉️  You can contact me at
+  [mohamadsaadkhalil@gmail.com](mailto:mohamadsaadkhalil@gmail.com)
+- 👨‍💻 My Portfolio <a href="https://Saad61323.github.io/" >Here</a>
 
-  ✨ About me:
+### Skills
 
-</h4>
-
--  I love the intersection of code and design 
--  I’m currently working with PHP  
--  I’m currently learning NextJS ⚛️  
-
-
-![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
-<h4> ✨ My Dev Statistics: </h4>
-<div align="left">
-  <a href="https://github.com/Saad61323">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saad61323&show_icons=true&theme=github_dark&hide_border=1&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad61323&layout=compact&theme=github_dark&hide_border=1"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lumi-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"> 
-  <img align="center" alt="Lumi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Lumi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lumi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-  <img align="center" alt="Lumi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lumi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lumi-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Lumi-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Lumi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Lumi-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Lumi-Babel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-  <img align="center" alt="Lumi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Lumi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />        
-  <img align="center" alt="Lumi-Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
-  <img align="center" alt="Lumi-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Lumi-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img align="center" alt="Lumi-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-                          
-
-	
-<div style="display: inline_block"><br>
-<h4> ✨ In Progress: </h4>
-  <img align="center" alt="Lumi-Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"> 
-  <img align="center" alt="Lumi-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="Lumi-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Lumi-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />       <img align="center" alt="Lumi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Lumi-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="center" alt="Lumi-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-
-                                        
-<div> 
-	
-  ##
-	
-  ![Snake animation](https://github.com/letnagao/letnagao/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
-![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
-  
-<h4 align="left">
-  ✨ Connect with me:
-</h4>
-<div style="display: inline_block" align="center">
-  
-  <p>
-     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-  </p>
-
-![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<details align="left"> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-🎶: Somebody that i used to know
-🌆: Glasgow
-🎇: 08.01.98
-📚: Wuthering Heights
-🌸: Spring
-📽: Gattaca
-	</ul>
-</details>
+<p align="left"> 
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="66"
+      height="66"
+      alt="JavaScript"
+  /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      width="66"
+      height="66"
+      alt="React"
+  /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+      width="66"
+      height="66"
+      alt="Redux"
+  /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      width="66"
+      height="66"
+      alt="HTML5"
+  /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      width="66"
+      height="66"
+      alt="CSS3"
+  /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+      width="66"
+      height="66"
+      alt="Express"
+  /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      width="66"
+      height="66"
+      alt="NodeJS"
+  /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+      width="66"
+      height="66"
+      alt="MongoDB"
+  /></a>
+</p>
