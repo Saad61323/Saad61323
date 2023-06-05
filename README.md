@@ -12,10 +12,10 @@
 
 <p align="left">
     <a href="https://github.com/Saad61323">
-        <img src="https://komarev.com/ghpvc/?username=shubhamkr2&label=Profile%20views&color=0e75b6&style=flat" alt="Saad61323" />
+        <img src="https://komarev.com/ghpvc/?username=Saad61323&label=Profile%20views&color=0e75b6&style=flat" alt="Saad61323" />
     </a>
     <a href="https://github.com/Saad61323?tab=followers">
-        <img src="https://img.shields.io/github/followers/shubhamkr2?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/Saad61323?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br> 
