@@ -6,7 +6,7 @@
 </h1>
 
 # <h1 align="center">Full Stack Web Developer</h1>
-  <h4 align="center">"Aspiring full stack web developer with a strong desire to create visually appealing and user-friendly websites. Skilled in HTML, CSS, JavaScript, React and various frameworks eager to learn more. Excited to use my abilities to deliver better results for users."</h3>
+  <h4 align="center">"Aspiring Cybersecurity Analyst | SOC & Pen Testing | SQA Background | AI/ML Engineering."</h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -20,7 +20,7 @@
 </p>
 <br> 
 
-- 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
+- 🌱 I’m currently learning **NIST Risk Management Framework, Linux & Networking Fundamentals, Penetration Testing**
 - 🌍  I'm based in Karachi,
   Pakistan
 - ✉️  You can contact me at
